@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "rootDir": "./src",
+    // "rootDir": "./src",
     "esModuleInterop": true,
     "module": "NodeNext",
     "declaration": true,
